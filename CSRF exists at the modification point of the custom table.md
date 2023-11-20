@@ -2,7 +2,7 @@ target:https://gitee.com/heyewei/JFinalcms
 
 version:v5.0.0
 
-JFinalcms v5.0.0 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component /admin/friend_link/save
+JFinalcms v5.0.0 was discovered to contain a Cross-Site Request Forgery (CSRF) via the component /admin/div/update
 
 ![图片](https://github.com/cui2shark/cms/assets/52313275/2a1d3e65-f9cf-44b3-92ff-422c47ace9a9)
 
