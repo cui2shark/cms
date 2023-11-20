@@ -1,4 +1,4 @@
-![图片](https://github.com/cui2shark/cms/assets/52313275/9ab7bced-3553-4e9a-b86e-9a0176ef7bee)target:https://gitee.com/heyewei/JFinalcms
+target:https://gitee.com/heyewei/JFinalcms
 
 version:v5.0.0
 
